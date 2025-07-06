@@ -106,7 +106,7 @@ def run():
                 from osint import run as menu9_run
                 menu9_run()
             elif choice == "10":
-                from doa import run as menu10_run
+                from dos import run as menu10_run
                 menu10_run()
             elif choice == "11":
                 print("\n\033[93mVIP Users Only😅\033[0m")
