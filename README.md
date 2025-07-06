@@ -1,4 +1,13 @@
-# INSTALASI FOR TERMUX 
+# SECRET DAEMONIUM LITE
+Gua Males Yapping Langsung Aja Ke Instalasi
+
+# ⚙️ INSTALASI FOR TERMUX
+```
+pkg update && pkg upgrade -y
+```
+```
+pkg install python -y
+```
 ```
 pkg install git -y
 ```
